@@ -106,7 +106,7 @@
 
 ## 5교시 - 과학
 ### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=G000325054&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=733566&hmwkTypeCd=ALL)
 ### 문제
 [구글 폼 바로가기](https://forms.gle/jLVYEzyx4VqE73nt7)
 ### 정답
