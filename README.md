@@ -34,6 +34,13 @@
 5. 집심현상이란?
 ```
 ### 정답
+1. 아이슬란드 레이캬비크
+2. 1. 높은 인구 밀도
+   2. 집약적으로 토지를 이용
+   3. 2, 3차 산업에 종사하는 사람이 많음
+3. 세계
+4. 리우데자네이루, 시드니, 나폴리
+5. 도시에 집중됨
 ### 참고 자료
 [EBS 영상 보러가기](http://mid.ebs.co.kr/pleasure/course/plain/player/main/index?cid=10203442&sid=STEP20004722&lid=LS0000000020207089&eno=1&encType=M10&captionYn=N&indexPosition=)
 
