@@ -135,6 +135,9 @@
 2. 4.19 혁명의 역사적 의의를 서술하시오.
 ```
 ### 정답
+1. 자유당에서 이승만과 이기붕을 당선시키기 위해 부정선거를 일으킴
+
+2. 내각책임제 개헌
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/PSzSEOYFJ2A/0.jpg)](https://www.youtube.com/embed/PSzSEOYFJ2A "Youtube")
 
